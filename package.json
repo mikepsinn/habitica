@@ -78,7 +78,7 @@
     "popper.js": "^1.14.3",
     "postcss-easy-import": "^3.0.0",
     "ps-tree": "^1.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pusher": "^1.3.0",
     "rimraf": "^2.4.3",
     "sass-loader": "^7.0.0",
