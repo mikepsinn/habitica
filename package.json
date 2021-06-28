@@ -67,7 +67,7 @@
     "nconf": "^0.10.0",
     "node-gcm": "^0.14.4",
     "node-sass": "^4.9.0",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.4.16",
     "ora": "^2.1.0",
     "pageres": "^4.1.1",
     "passport": "^0.4.0",
